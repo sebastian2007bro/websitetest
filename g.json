@@ -4,6 +4,7 @@
   "description": "Welcome to my source! Here you'll find all of my apps.",
   "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
   "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/SebastianForever",
   "tintColor": "#6156e2",
   "featuredApps": [],
   "apps": [
@@ -32,7 +33,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      },    
+      },
+      "patreon": {}
     }
   ],
   "news": []
